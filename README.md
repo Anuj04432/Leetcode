@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anuj04432/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuj04432/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anuj04432/Leetcode/tree/master/0169-majority-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Anuj04432/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anuj04432/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anuj04432/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anuj04432/Leetcode/tree/master/0242-valid-anagram) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Anuj04432/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
