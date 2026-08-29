@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anuj04432/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anuj04432/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Anuj04432/Leetcode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/Anuj04432/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anuj04432/Leetcode/tree/master/0342-power-of-four) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anuj04432/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anuj04432/Leetcode/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/Anuj04432/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anuj04432/Leetcode/tree/master/0342-power-of-four) |
 ## Database
 |  |
