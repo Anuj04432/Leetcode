@@ -155,4 +155,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anuj04432/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anuj04432/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anuj04432/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anuj04432/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anuj04432/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
