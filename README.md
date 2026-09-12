@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuj04432/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anuj04432/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anuj04432/Leetcode/tree/master/0189-rotate-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anuj04432/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anuj04432/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuj04432/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj04432/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anuj04432/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anuj04432/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anuj04432/Leetcode/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anuj04432/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuj04432/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj04432/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
