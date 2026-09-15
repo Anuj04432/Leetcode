@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Anuj04432/Leetcode/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Anuj04432/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Anuj04432/Leetcode/tree/master/0197-rising-temperature) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
