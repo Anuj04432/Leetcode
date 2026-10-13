@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuj04432/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuj04432/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj04432/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anuj04432/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anuj04432/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anuj04432/Leetcode/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/Anuj04432/Leetcode/tree/master/1122-relative-sort-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anuj04432/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anuj04432/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anuj04432/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anuj04432/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
